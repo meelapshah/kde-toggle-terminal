@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Name": "Toggle Scratchpad",
+        "Description": "Toggle Scratchpad",
+        "Icon": "preferences-system-windows",
+        "Id": "togglescratchpad",
+        "ServiceTypes": [
+            "KWin/Script"
+        ],
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "main.js"
+}
